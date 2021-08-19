@@ -2,6 +2,9 @@
   "name": "rest-api-practice",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": "https://github.com/mikethemaker/rest-api-practice",
   "author": "Michael Wilson <mikethemaker@users.noreply.github.com>",
   "license": "MIT",
